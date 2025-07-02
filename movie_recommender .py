@@ -56,10 +56,10 @@ def main():
     
     while True:
         print("\nOptions:")
-        print("1. Get collaborative filtering recommendations")
-        print("2. Get content-based recommendations")
+        print("1. Get collaborative filtering recommendations") #Ask user for collaborative filtering recommendations
+        print("2. Get content-based recommendations") #Ask user for content-based recommendations
         print("3. Exit")
-        
+        #User choice
         choice = input("Enter your choice (1-3): ")
         
         if choice == '1':
