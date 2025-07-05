@@ -1,10 +1,10 @@
 # Movie_reccomendation
 
-🎥# Movie Recommendation System
+## 🎥 Movie Recommendation System
 
 
 
-💡This is a simple Python project that recommends movies using two methods:
+This is a simple Python project that recommends movies using two methods:
 
 1. **Collaborative Filtering** – recommends movies based on what similar users have liked.
 
@@ -28,7 +28,7 @@
 
 
 
-##🔮 Features
+## 🔮 Features
 
 
 
@@ -41,7 +41,7 @@
 - You just enter a movie title, and it gives 5 similar movie suggestions.
 
 
-## Requirements
+## 🔖 Requirements
 
 Make sure you have these Python libraries installed:
 ```bash
