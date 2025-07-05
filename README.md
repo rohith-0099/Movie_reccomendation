@@ -1,11 +1,10 @@
 # Movie_reccomendation
-# Movie_reccomendation
 
-# Movie Recommendation System
-
+🎥# Movie Recommendation System
 
 
-This is a simple Python project that recommends movies using two methods:
+
+💡This is a simple Python project that recommends movies using two methods:
 
 1. **Collaborative Filtering** – recommends movies based on what similar users have liked.
 
@@ -13,7 +12,7 @@ This is a simple Python project that recommends movies using two methods:
 
 
 
-## How it Works
+## ⚙️How it Works
 
 
 
@@ -29,7 +28,7 @@ This is a simple Python project that recommends movies using two methods:
 
 
 
-## Features
+##🔮 Features
 
 
 
