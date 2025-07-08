@@ -58,7 +58,7 @@ def main():
         print("\nOptions:")
         print("1. Get collaborative filtering recommendations") #Ask user for collaborative filtering recommendations
         print("2. Get content-based recommendations") #Ask user for content-based recommendations
-        print("3. Exit")
+        print("3. Exit") # for exiting from the options
         #User choice
         choice = input("Enter your choice (1-3): ")
         
