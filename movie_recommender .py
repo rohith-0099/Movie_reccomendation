@@ -8,8 +8,8 @@ import warnings
 warnings.filterwarnings('ignore')
 
 # Load datasets
-movies = pd.read_csv() #CSV file path for movies dataset
-ratings = pd.read_csv() #CSV file path for ratings dataset
+movies = pd.read_csv() #CSV file path for movies dataset, add file name
+ratings = pd.read_csv() #CSV file path for ratings dataset, add the file name
 
 # Limit dataset size for better performance
 ratings = ratings.head(100000)  # Use first 100,000 ratings
