@@ -51,7 +51,7 @@ def content_based_recommendations(title, n_recommendations=5):
     return movies['title'].iloc[movie_indices].tolist()
 
 def main():
-    print("Movie Recommendation System")
+    print("Movie Recommendation System") #Tittle
     print("="*30)
     
     while True:
