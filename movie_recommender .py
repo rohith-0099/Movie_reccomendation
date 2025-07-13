@@ -1,4 +1,4 @@
-import pandas as pd
+animport pandas as pd
 import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.feature_extraction.text import TfidfVectorizer
@@ -60,6 +60,7 @@ def main():
         print("2. Get content-based recommendations") #Ask user for content-based recommendations
         print("3. Exit") # for exiting from the options
         #User choice
+        #make changes according to the need
         choice = input("Enter your choice (1-3): ")
         
         if choice == '1':
